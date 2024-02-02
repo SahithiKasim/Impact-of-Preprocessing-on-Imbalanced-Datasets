@@ -9,7 +9,7 @@ This project tackles the challenges of credit default prediction within imbalanc
 ## Key Features
 
 - **Imbalanced Dataset Handling:** Strategies for effective handling of imbalanced datasets.
-- **Multiple Models:** Implementation of classic (XGBoost) and neural network models using Tensorflow and JAX frameworks.
+- **Multiple Models:** Implementation of classic (XGBoost) and neural network models using TensorFlow and JAX frameworks.
 - **Impact Analysis:** In-depth analysis of the impact of each preprocessing technique, including imputation methods and oversampling/undersampling trade-offs.
 
 ## Analysis Insights
@@ -20,7 +20,7 @@ The analysis brought forth several key insights:
 
 2. **Trade-off between Oversampling and Undersampling:** The project uncovered the delicate balance between oversampling and undersampling, providing valuable guidance on achieving optimal results.
 
-3. **Accuracy Improvement:** The implemented strategies led to a significant accuracy improvement, elevating the model from 77% to an impressive 92%.
+3. **Accuracy Improvement:** The implemented strategies led to a significant accuracy improvement, elevating the model from 77% to an impressive 88%.
 
 4. **Training Time Optimization:** The project achieved a substantial reduction in training time, enhancing efficiency from over one hour to just 33 seconds.
 
